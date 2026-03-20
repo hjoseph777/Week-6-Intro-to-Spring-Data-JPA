@@ -106,6 +106,22 @@ Before submitting, verify each of the following manually:
 2. **Create (invalid)** — Submit with bad data and confirm errors appear and nothing is saved
 3. **Read** — Navigate to the fighters list and confirm all saved fighters appear
    
+### Lab 3 Screenshots
+
+#### 1. Invalid Data Submission
+**Before (Invalid Data Entered):**
+![Invalid Data Entered](images/invalid_before.png)
+
+**After (Validation Errors Displayed):**
+![Validation Errors](images/invalid_after.png)
+
+#### 2. Valid Data Submission
+**Before (Valid Data Entered):**
+![Valid Form](images/valid_before.png)
+
+**After (Successfully Added to Roster):**
+![Fighters Roster](images/valid_after.png)
+
 ---
 
 ## Development Workflow
