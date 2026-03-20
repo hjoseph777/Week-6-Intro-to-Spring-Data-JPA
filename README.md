@@ -13,37 +13,6 @@ In the previous lab you built a `Fighter` registration form and stored fighters 
 
 ---
 
-## Getting Started
-
-### GitHub Setup
-
-1. **Fork the Repository**
-   - Go to the repository on GitHub and click the **Fork** button in the top-right corner
-
-2. **Clone Your Fork**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Week-6-Intro-to-Spring-Data-JPA.git
-   cd Week-6-Intro-to-Spring-Data-JPA
-   ```
-
-3. **Add Upstream Remote**
-   ```bash
-   git remote add upstream https://github.com/Christin-Classrooms/Week-6-Intro-to-Spring-Data-JPA.git
-   ```
-
-4. **Pull Latest Changes**
-   ```bash
-   git pull upstream main
-   ```
-
-5. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/lab3-yourname
-   ```
-   Replace `yourname` with your actual name (e.g., `feature/lab3-john-doe`)
-
----
-
 ## Lab 3 Assignment
 
 ### Part 1 — Annotate the Fighter Entity
@@ -98,7 +67,7 @@ No need to update Thymeleaf templates, we're just refractoring the back end.
 
 ---
 
-## Testing Your Work
+## Testing my Work
 
 Before submitting, verify each of the following manually:
 
